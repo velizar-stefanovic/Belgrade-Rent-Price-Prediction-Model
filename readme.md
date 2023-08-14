@@ -6,7 +6,7 @@ The Renting Price Prediction Tool is designed to assist users in estimating rent
 
 ## Dataset
 
-The dataset used for this project comprises approximately 5000 instances of rental listings scraped from Nekretnine[Nekretnine](www.nekretnine.rs). The dataset includes a variety of features such as property type, location, size, number of rooms, and more. Images were not included in the dataset. The dataset was cleaned and preprocessed using Python's Numpy and Pandas library to ensure accurate model training.
+The dataset used for this project comprises approximately 5000 instances of rental listings scraped from [Nekretnine](www.nekretnine.rs). The dataset includes a variety of features such as property type, location, size, number of rooms, and more. Images were not included in the dataset. The dataset was cleaned and preprocessed using Python's Numpy and Pandas library to ensure accurate model training.
 
 ## Model Building
 
