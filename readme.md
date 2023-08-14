@@ -1,8 +1,8 @@
 ![cover photo](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1282554/retina_1708x683_cover-real-estate-valuation-30b8ba2321ec50c0f2c5d026b10a88df.png)
 
-### Belgrade Renting Price Prediction Tool
+# Belgrade Renting Price Prediction Tool
 
-The Renting Price Prediction Tool is designed to assist users in estimating rental prices for properties in Belgrade, Serbia. The project involves the collection, cleaning, and analysis of rental data from the popular Serbian renting website, [Nekretnine](www.nekretnine.rs). With this tool, users can input various property attributes such as property area size, number of rooms, heating type, general condition, and location to receive a predicted rental price in euros.
+The Renting Price Prediction Tool is designed to assist users in estimating rental prices for properties in Belgrade, Serbia. The project involves the collection, cleaning, and analysis of rental data from the popular Serbian renting website - [Nekretnine](www.nekretnine.rs). With this tool, users can input various property attributes such as property area size, number of rooms, heating type, general condition, and location to receive a predicted rental price in euros.
 
 ## Dataset
 
