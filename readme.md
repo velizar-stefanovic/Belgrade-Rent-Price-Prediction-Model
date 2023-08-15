@@ -1,4 +1,4 @@
-![cover photo](https://ibb.co/KsCMfmK)
+![cover photo](https://i.postimg.cc/4NzPfp6V/Screenshot-at-Aug-15-14-00-39.png)
 
 # Belgrade Renting Price Prediction Tool
 
