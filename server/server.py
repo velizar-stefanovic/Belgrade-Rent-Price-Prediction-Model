@@ -1,13 +1,35 @@
 from flask import Flask, request, jsonify
 import util
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 
 @app.route('/get_location_names', methods=['GET'])
 def get_location_names():
     response = jsonify({
         'locations': util.get_location_names()
+    })
+
+    response.headers.add('Access-Control-Allow-Origin', '*')
+
+    return response
+
+@app.route('/get_general_condition', methods=['GET'])
+def get_general_condition():
+    response = jsonify({
+        'general_condition': util.get_general_condition()
+    })
+
+    response.headers.add('Access-Control-Allow-Origin', '*')
+
+    return response
+
+@app.route('/get_heating', methods=['GET'])
+def get_heating():
+    response = jsonify({
+        'heating': util.get_heating()
     })
 
     response.headers.add('Access-Control-Allow-Origin', '*')
