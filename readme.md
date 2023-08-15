@@ -1,4 +1,4 @@
-![cover photo](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1282554/retina_1708x683_cover-real-estate-valuation-30b8ba2321ec50c0f2c5d026b10a88df.png)
+![cover photo](https://ibb.co/KsCMfmK)
 
 # Belgrade Renting Price Prediction Tool
 
@@ -19,3 +19,4 @@ The final predictive model was built using Linear Regression from the Scikit-Lea
 - Matplotlib for data visualization
 - Scikit-Learn for building and evaluating machine learning models
 - Python Flask for creating the HTTP server to host the prediction tool
+- HTML/CSS/Javascript for UI
